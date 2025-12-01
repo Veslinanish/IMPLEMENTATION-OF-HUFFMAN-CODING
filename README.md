@@ -30,8 +30,8 @@ Print the characters and its huffmancode.
  
 ## Program:
 ```
-Name : PRAKASH C
-Reg.No : 212223240122
+Name : VESLIN ANISH A
+Reg.No : 212223240175
 ```
 
 ``` Python
